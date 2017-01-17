@@ -1,4 +1,3 @@
-import os, sys
 import mercadopago
 import json
 
